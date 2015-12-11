@@ -8,9 +8,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "Santore\\" : "src\\"
-        }
+        "files": ["src/functions.php"]
     },
     "require": {
         "phpunit/phpunit": "^4.8"
