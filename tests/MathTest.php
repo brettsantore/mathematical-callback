@@ -1,6 +1,8 @@
 <?php
 
-class MathTest extends PHPUnit_Framework_TestCase 
+use Santore\EqSumPowdig;
+
+class MathTest extends PHPUnit_Framework_TestCase
 {
     
     /**
